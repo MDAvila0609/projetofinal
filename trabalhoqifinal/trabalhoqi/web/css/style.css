@@ -1,0 +1,202 @@
+
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+a
+{
+    text-decoration: none;
+    color: #000000;
+    cursor: pointer;
+}
+
+#cabecalho
+{
+    background-color: green;
+    width: 100%;
+    height: 3rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-around
+}
+
+#entrarp
+{
+    margin: 1.5rem 0rem 0rem 7rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#logar
+{
+    margin: 5% 0 0 40%;
+}
+
+#paragrafo
+{
+      margin: 1.5rem 0rem 1.5rem 4.5rem;
+      font-weight: bold;
+}
+
+#facebook_0
+{
+    margin: 0rem 0rem 0rem -0.5rem;
+}
+
+#email_0
+{
+    margin: -2.3rem 0rem 0rem 8.5rem;
+}
+
+#outlook_0
+{
+    margin: -2.3rem 0rem 0rem 15rem;
+}
+
+#outlook_1
+{
+    margin: -3rem 0rem 0rem 1.2rem;
+}
+
+#facebook_1
+{
+    margin: 0rem 0rem 0rem 1.5rem;
+}
+
+#email_1
+{
+    margin: -3rem 0rem 0rem 0.5rem;
+}
+
+#facebook_1,
+#outlook_1,
+#email_1
+{
+    font-size: 1.5rem; 
+}
+
+#img-logo
+{
+    margin: 0rem 0rem 0rem 3.5rem;
+}
+
+#confirmasenha_label,
+#bairro_1,
+#rua_1,
+#nc_1,
+#nome_c1,
+#cep_1,
+#telefone_1,
+#facebook_1,
+#outlook_1,
+#criarconta_1,
+#funcionario_1,
+#email_label,
+#senha_label,
+#email_2,
+#estado_1,
+#cpf_1,
+#data_1,
+#complemento_1,
+#cidade_1
+{
+    font-weight: bold;
+}
+
+#bairro_2,
+#rua_2,
+#nc_2,
+#nome_c2,
+#cep_2,
+#telefone_2,
+#email_input,
+#senha_input,
+#estado_2,
+#cpf_2,
+#data_2,
+#complemento_2,
+#cidade_2
+{
+    border-bottom: 0.1rem solid #000000;
+    outline: 0;
+}
+
+#login
+{
+    background-color: green;
+    margin: 1rem 0rem 0rem 7rem;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    width: 5rem
+}
+
+#registrarse
+{
+    color: green;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+#cadastro
+{
+    width: 70%;
+    height: 70vh;
+    display: flex;
+    flex-wrap: wrap; 
+    padding: 2rem;
+}
+
+#cpf_0,
+#data_0,
+#complemento_0,
+#bairro_0,
+#rua_0,
+#nc_0,
+#nome_c0,
+#cep_0,
+#telefone_0,
+#cidade_0
+{
+    padding-right: 0.8rem;
+}
+
+#limpar,
+#registrar
+{
+    margin: 0rem 0rem 0rem 2rem;
+    font-weight: bold;
+    font-size: 1rem;
+    border-radius: 1rem;
+    padding: 0.3rem;
+    cursor: pointer;
+}
+
+#limpar
+{
+    background-color: red;
+}
+
+#registrar
+{
+    background-color: green;
+}
+
+#emailsenha
+{
+    
+    margin: 999rem 0999999rem 0rem 0rem;
+    padding: 7rem;
+}
+
+
+
+
